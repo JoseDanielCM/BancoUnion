@@ -1,0 +1,151 @@
+
+Cheque ID CH0001004
+Cliente: Laura Martinez
+Monto: 800000.0
+Estado: Rechazado
+Razon: El monto del cheque es menor al saldo de la cuenta
+--------------------------------------------------------
+Cheque ID CH0001005
+Cliente: Maria Torres
+Monto: 1000000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001007
+Cliente: Luis Fernandez
+Monto: 750000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001009
+Cliente: Miguel Hernandez
+Monto: 900000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001013
+Cliente: Roberto Silva
+Monto: 800000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001016
+Cliente: Juan Perez
+Monto: 2000000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001020
+Cliente: Juan Perez
+Monto: 100000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001021
+Cliente: Juan Perez
+Monto: 8000000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001022
+Cliente: Ana Lopez
+Monto: 9999999.0
+Estado: Rechazado
+Razon: El monto del cheque es menor al saldo de la cuenta
+--------------------------------------------------------
+Cheque ID CH0001023
+Cliente: Juan Perez
+Monto: 100000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001026
+Cliente: Sofia Gomez
+Monto: 400000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001029
+Cliente: Carlos Ramirez
+Monto: 4026656.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001030
+Cliente: Laura Martinez
+Monto: 3534225.0
+Estado: Rechazado
+Razon: El monto del cheque es menor al saldo de la cuenta
+--------------------------------------------------------
+Cheque ID CH0001036
+Cliente: Sara Morales
+Monto: 4529534.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001037
+Cliente: Pedro Gomez
+Monto: 2233380.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001042
+Cliente: Ricardo Mendoza
+Monto: 5092458.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001043
+Cliente: Carolina Paz
+Monto: 2680813.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001048
+Cliente: Carlos Ramirez
+Monto: 500000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001051
+Cliente: Sofia Gomez
+Monto: 500000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001054
+Cliente: Miguel Hernandez
+Monto: 500000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001056
+Cliente: Pedro Gomez
+Monto: 500000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001057
+Cliente: Lucia Cortez
+Monto: 500000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001058
+Cliente: Roberto Silva
+Monto: 500000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001061
+Cliente: Ricardo Mendoza
+Monto: 500000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
+Cheque ID CH0001064
+Cliente: Valentina Rojas
+Monto: 500000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------

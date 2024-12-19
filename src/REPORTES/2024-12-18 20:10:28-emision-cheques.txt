@@ -1,0 +1,4 @@
+Emisor: Juan Perez
+Beneficiario: Lomito
+Monto: 100000.0
+Prioridad: Alta

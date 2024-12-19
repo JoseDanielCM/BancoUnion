@@ -1,0 +1,7 @@
+
+Cheque ID CH0001069
+Cliente: Juan Perez
+Monto: 100000.0
+Estado: Procesado
+Razon: -
+--------------------------------------------------------
